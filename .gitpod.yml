@@ -2,8 +2,5 @@ image:
   file: .gitpod.Dockerfile
 tasks:
   - init: ''
-    command: 'echo "Strat CVeno: deno run --allow-net --allow-env --allow-read main.js"'
+    command: 'echo "Strat CVeno: deno task dev or deno task start"'
 
-vscode:
-  extensions:
-    - denoland.vscode-deno@2.3.1:EQc/TzIQd+H8BcYsPXTo/A==
