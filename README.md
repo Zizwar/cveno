@@ -11,13 +11,20 @@ git clone https://github.com/Zizwar/cveno
 ```
 
 ## run
- - in terminal
+ - terminal
 ```sh
 $ deno run --allow-net --allow-read main.js
 ```
- - in docker 
+ - docker 
  ```sh
 $ docker build -t app . && docker run -it --init -p 1993:1993 app
 ```
-## in dash deno dev 
+- change data cv 
+ ```
+ ./utils/db.ts
+```
+### view in dash deno dev 
 https://cveno.deno.dev
+
+## origin source css html 
+https://codepen.io/Wendy-Ho/pen/aMoEVJ
