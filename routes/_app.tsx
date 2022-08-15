@@ -1,5 +1,3 @@
-
-
 /** @jsx h */
 /** @jsxFrag Fragment */
 import { h } from "preact";
@@ -16,14 +14,18 @@ export default function App({ Component }: AppProps) {
         <meta property="og:site_name" content="CVeno" />
         <meta property="og:title" content="" />
         <meta property="og:description" content="" />
-
         <meta property="og:type" content="website" />
         <meta name="robots" content="index, follow" />
         <meta
           name="keywords"
           content="CV, Deno, DenoLand, Development, JavaScript, TypeScript"
         />
-        <link rel="stylesheet" href="/css/wino.css" />
+        <link rel="stylesheet" href="/css/globals.css" />
+        <link rel="stylesheet" href="/css/home.css" />
+        <link
+          rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        />{" "}
       </Head>
       <Component />
     </div>

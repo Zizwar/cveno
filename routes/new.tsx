@@ -1,9 +1,12 @@
+/** @jsx h */
+import { h } from "preact";
 
-import Skills from '../components/skills';
-import Works from '../components/works';
-import Line from '../components/line';
-import Experience from '../components/experience';
+import Skills from '../components/skills.tsx';
+import Works from '../components/works.tsx';
+import Line from '../components/line.tsx';
+import Experience from '../components/experience.tsx';
 import { cv } from '../utils/db.ts';
+
 export default function Home() {
     return (
         <div>
