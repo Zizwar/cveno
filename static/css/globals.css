@@ -1,0 +1,268 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: "Raleway", "Microsoft JhengHei";
+}
+.wrapper {
+  min-width: 900px;
+  min-height: 1000px;
+  background: #fff;
+}
+.header {
+  margin-top: 20px;
+  height: 300px;
+  background: #ffc107;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.header h1 {
+  font-size: 3em;
+}
+.side {
+  min-height: 2400px;
+  background: #333;
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 300px;
+  padding: 20px;
+  color: #fff;
+}
+.side h2 {
+  color: #ffc107;
+}
+.side a{
+	color:#fff;
+}
+.photo {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 100%;
+  background-color: #fff;
+  background-image: url("https://avatars.githubusercontent.com/u/1431864?v=4");
+  background-size: cover;
+  border: 10px #ffc107 solid;
+}
+.info,
+.skills {
+  margin-top: 50px;
+}
+.skills p {
+  margin: 30px 0px 0px 0px;
+}
+.box-ck,
+.box {
+  display: inline-flex;
+  width: 23px;
+  height: 5px;
+  margin: 0px 1px;
+}
+.box {
+  background: #eee;
+}
+.box-ck {
+  background: #ffc107;
+}
+.content,
+.header * {
+  margin-left: 370px;
+}
+.content {
+  padding: 20px;
+}
+.content p,.content li{
+  text-align: justify;
+  letter-spacing:0.5px;
+  line-height:1.5
+}
+.content li{
+  list-style:none;
+}
+.content li:before{
+  content: '';
+   display: inline-block;
+   height: 10px;
+   width: 13px;
+  margin-right:5px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAq5OKLLwmxhiV5Gsw0I0ny-LBSWK6nr59DoY9GPkrxfEK8n6&s)
+}
+.line {
+  border-bottom: 1px solid #ffc107 !important;
+  position: relative;
+}
+.line:before {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  border: 3px solid #ffc107;
+  border-width: 3px 20px;
+  top: -3px;
+  border-radius: 3px;
+}
+a{
+  text-decoration:none;
+	color:#333;
+}
+a {
+  display: inline-block;
+  position: relative;
+  padding:0px;
+}
+a:before, a:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 2px;
+  width: 0;
+}
+a:before {
+  transition: width 0s ease,background .4s ease;
+  bottom: -2px;
+}
+a:after {
+  right: 2.2%;
+  bottom: -2px;
+  background: #ffc107;
+  transition: width .4s ease;
+}
+a:hover:before {
+  width: 97.8%;
+  background: #ffc107;
+  transition: width .4s ease;
+}
+a:hover:after {
+  width: 97.8%;
+  background: 0 0;
+  transition: all 0s ease;
+}
+.content h3 span{
+  display:inline-block;
+}
+.quote {
+ position: relative;
+ font-family: 'Roboto', sans-serif;
+ line-height: 150%;
+}
+.quote:before {
+  color: #000;
+  content: "\201C";
+  font-size: 1.5em;
+  position:absolute;
+  left:-45px;
+  top: 25px;
+  line-height: 0.1em;
+}
+.quote:after {
+  color: #000;
+  content: "\201D";
+  font-size: 1.5em;
+  position:absolute;
+  right:-40px;
+  bottom: -10px;
+  line-height: 0.1em;
+}
+.text-center{
+  text-align:center;
+}
+/* Timeline */
+.timeline {
+  border-left: 4px solid #ffc107;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  margin: 20px  auto 20px 150px;
+  letter-spacing: 0.5px;
+  position: relative;
+  line-height: 1.4em;
+  font-size: 1.03em;
+  padding: 10px 15px;
+  list-style: none;
+  text-align: left;
+}
+
+.timeline .event {
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+  position: relative;
+}
+.timeline .event:last-of-type {
+  border: none;
+}
+.timeline .event:before,
+.timeline .event:after {
+  position: absolute;
+  display: block;
+  top: 0;
+}
+.timeline .event:before {
+  left: -160px;
+  content: attr(data-date);
+  text-align: right;
+  font-weight: 100;
+  font-size: 0.9em;
+  min-width: 120px;
+}
+.timeline .event:after {
+  box-shadow: 0 0 0 4px #ffc107;
+  left: -23px;
+  background: #fff;
+  border-radius: 50%;
+  height: 11px;
+  width: 11px;
+  content: "";
+  top: 5px;
+}
+small{
+  word-break: break-all;
+}
+@media screen and (max-width: 650px) {
+  .wrapper {
+    min-width: inherit;
+    min-height: auto;
+    background: #fff;
+  }
+  .side {
+    min-height: inherit;
+    background: #333;
+    /*color: inherit;*/
+    position: inherit;
+    width:inherit;
+  }
+  .side h2 {
+    color: inherit;
+  }
+  .content,
+  .header * {
+    margin-left: 0px;
+  }
+  .header {
+    margin-top: 0px;
+    height: auto;
+  }
+  .header .photo {
+    display: block !important;
+    border: 8px #ffffff solid;
+    margin: 0;
+    width: 220px;
+    height: 220px;
+    margin-top:30px;
+  }
+  .header h3 {
+    margin-bottom:50px;
+  }
+  .side .photo {
+    display: none;
+  }
+  .timeline{
+    margin-left: 130px;
+  }
+  .content h3 span{
+  display:block;
+    line-height:1.5
+  }
+}
