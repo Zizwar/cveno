@@ -5,7 +5,7 @@ import Skills from '../components/skills.tsx';
 import Works from '../components/works.tsx';
 import Line from '../components/line.tsx';
 import Experience from '../components/experience.tsx';
-import { cv } from '../utils/db.ts';
+import  cv  from '../utils/cv.json' assert { type: "json" };
 
 export default function Home() {
     return (
