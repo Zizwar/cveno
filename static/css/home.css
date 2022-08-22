@@ -114,6 +114,14 @@
   height: 1em;
 }
 
+.links a{
+  margin-left: 10px;
+
+}
+.links a i {
+  display: contents;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

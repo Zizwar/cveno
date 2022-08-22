@@ -1,18 +1,49 @@
 {
-  "name": "Ibrahim BIDI",
-  "mail": "mail@ibrahim.contact",
+  "name": "Brahim BIDI",
+  "mail": "mail@brah.im",
   "subName": "JavaScript ❣️",
   "aboutMe": [
     "About Ibrahim ",
     "I'm Ibrahim Bidi, the programming world is my specialty, everything related to JavaScript you will find me there, in the Frontend, Backend, on mobile and desktop, in robotics and blockchain, JavaScript has become everywhere.\nI bet on javascript 22 years ago, it was on Earth🌍 and now it's in space🚀\nJS🧡."
   ],
   "mobile": "Mobile: +212648188181",
-  "mailbox": "mailbox: mail@ibrahim.contact",
+  "mailbox": "mailbox: bidi@brah.im",
   "avatar": "/avatar/ibrahim_bidi.jpg",
   "birth": "Birth: 1979",
   "info": "Basic information",
-  "nameT": "Name: Ibrahim BIDI",
-  "site": [{ "text": "", "url": "" }],
+  "nameT": "Name: Brahim BIDI",
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/Zizwar/",
+      "icon": "fa fa-github"
+    },
+    {
+      "title": "facebook",
+      "url": "https://web.facebook.com/groups/JavaScript.Programming",
+      "icon": "fa fa-facebook"
+    },
+    {
+      "title": "linkedin",
+      "url": "https://www.linkedin.com/in/ibrahim-bidi-07a7b620",
+      "icon": "fa fa-linkedin"
+    },
+    {
+      "title": "instagram",
+      "url": "https://www.instagram.com/bidiibrahim/",
+      "icon": "fa fa-instagram"
+    },
+    {
+      "title": "codeer",
+      "url": "https://coder.social/Zizwar"
+    },
+    {
+      "title": "android",
+      "url": "https://play.google.com/store/apps/developer?id=Ibrahim+Bidi",
+      "icon": "fa fa-android"
+    },
+    { "title": "email", "url": "mailto:mail@brah.im", "icon": "fa fa-at" }
+  ],
   "skills": [
     {
       "name": "V8",
