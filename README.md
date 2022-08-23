@@ -21,10 +21,53 @@ $ docker build -t app . && docker run -it --init -p 1993:1993 app
 ```
 - change data cv 
  ```
- ./utils/db.ts
+ ./utils/db.json
 ```
+```json
+{
+  "name": "Brahim BIDI",
+  "mail": "mail@brah.im",
+  "subName": "JavaScript ❣️",
+  "aboutMe": [
+    "About Ibrahim ",
+    "I'm Ibrahim Bidi, the programming world is my specialty, everything related to JavaScript you will find me there, in the Frontend, Backend, on mobile and desktop, in robotics and blockchain, JavaScript has become everywhere.\nI bet on javascript 22 years ago, it was on Earth🌍 and now it's in space🚀\nJS🧡."
+  ],
+  "mobile": "Mobile: +212648188181",
+  "mailbox": "mailbox: bidi@brah.im",
+  "avatar": "/avatar/ibrahim_bidi.jpg",
+  "birth": "Birth: 1979",
+  "info": "Basic information",
+  "nameT": "Name: Brahim BIDI",
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/Zizwar/",
+      "icon": "fa fa-github"
+    }],
+      "skills": [
+    {
+      "name": "V8",
+      "skill": [
+        { "name": "DenoLand", "percent": 95 },
+        { "name": "NodeJs", "percent": 90 }
+      ]
+    }],
+  "experiences": {
+    "title": "Competence experience",
+    "items": [
+      {
+        "name": "Web page",
+        "icon": "fa fa-tv",
+        "experience": [
+          "Work with dozens of front and rear engineers and designers to develop project experience",
+          "SEO search engine optimization, Google keywords",
+          "Experience developing web pages using the Bootstrap4/UIkit framework",
+        ]}]}
+}
+```
+
 ### view in dash deno dev 
 https://cveno.deno.dev
 
-## origin source css html 
-https://codepen.io/Wendy-Ho/pen/aMoEVJ
+# import source css html 
+https://github.com/Zizwar/cveno/tree/main/wendy
