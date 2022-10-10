@@ -1,7 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Zizwar/cveno)
 
 # cveno
-Curriculum Vitae Deno
+Fresh Curriculum Vitae 
 
 1- https://deno.land/#installation
 
@@ -13,12 +13,23 @@ git clone https://github.com/Zizwar/cveno
 ## run
  - terminal
 ```sh
-$ deno run --allow-net --allow-read main.js
+$ deno task start
+or
+$ deno run -A --watch=static/,routes/ dev.ts
+or
+$ deno run --allow-net --allow-read main.ts
+
 ```
  - docker 
  ```sh
 $ docker build -t app . && docker run -it --init -p 1993:1993 app
 ```
+ - cloud 
+```
+ ```sh
+in https://dash.deno.com create a new project and then link to your version repo.
+```
+
 - change data cv 
  ```
  ./utils/db.json
@@ -66,8 +77,11 @@ $ docker build -t app . && docker run -it --init -p 1993:1993 app
 }
 ```
 
-### view in dash deno dev 
+### view demo in dash deno dev 
 https://cveno.deno.dev
 
-# import source css html 
+### import source css html 
 https://github.com/Zizwar/cveno/tree/main/wendy
+
+### Technologies
+[![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
