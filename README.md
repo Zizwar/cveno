@@ -3,6 +3,7 @@
 # cveno
 Fresh Curriculum Vitae 
 
+## install
 1- https://deno.land/#installation
 
 2- clone: 
