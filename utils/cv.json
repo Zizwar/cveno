@@ -1,180 +1,221 @@
 {
-  "name": "Brahim BIDI",
-  "mail": "mail@brah.im",
-  "subName": "JavaScript ❣️",
-  "aboutMe": [
-    "About Ibrahim ",
-    "I'm Ibrahim Bidi, the programming world is my specialty, everything related to JavaScript you will find me there, in the Frontend, Backend, on mobile and desktop, in robotics and blockchain, JavaScript has become everywhere.\nI bet on javascript 22 years ago, it was on Earth🌍 and now it's in space🚀\nJS🧡."
-  ],
-  "mobile": "Mobile: +212648188181",
-  "mailbox": "mailbox: bidi@brah.im",
-  "avatar": "/avatar/ibrahim_bidi.jpg",
-  "birth": "Birth: 1979",
-  "info": "Basic information",
-  "nameT": "Name: Brahim BIDI",
-  "links": [
-    {
-      "title": "github",
-      "url": "https://github.com/Zizwar/",
-      "icon": "fa fa-github"
-    },
-    {
-      "title": "facebook",
-      "url": "https://web.facebook.com/groups/JavaScript.Programming",
-      "icon": "fa fa-facebook"
-    },
-    {
-      "title": "linkedin",
-      "url": "https://www.linkedin.com/in/ibrahim-bidi-07a7b620",
-      "icon": "fa fa-linkedin"
-    },
-    {
-      "title": "instagram",
-      "url": "https://www.instagram.com/bidiibrahim/",
-      "icon": "fa fa-instagram"
-    },
-    {
-      "title": "codeer",
-      "url": "https://coder.social/Zizwar"
-    },
-    {
-      "title": "android",
-      "url": "https://play.google.com/store/apps/developer?id=Ibrahim+Bidi",
-      "icon": "fa fa-android"
-    },
-    { "title": "email", "url": "mailto:mail@brah.im", "icon": "fa fa-at" }
-  ],
-  "skills": [
-    {
-      "name": "V8",
-      "skill": [
-        { "name": "DenoLand", "percent": 95 },
-        { "name": "NodeJs", "percent": 90 }
-      ]
-    },
-    {
-      "name": "Frameworks & Libs",
-      "skill": [
-        { "name": "Reactjs/Nextjs/aleph", "percent": 90 },
-        { "name": "React Native", "percent": 95 }
-      ]
-    },
-    {
-      "name": "Sql & NoSql & WS",
-      "skill": [
-        { "name": "Mysql / Postgresql / Sqlite", "percent": 85 },
-        { "name": "MongoDB", "percent": 95 },
-        { "name": "Realme", "percent": 80 },
-        { "name": "Firebase / pushDB / Redis / Websocket", "percent": 90 }
-      ]
-    },
-    {
-      "name": "Robotics & IoT",
-      "skill": [
-        { "name": "Johnny-Five", "percent": 80 },
-        { "name": "Cylonjs", "percent": 70 },
-        { "name": "NodeBots", "percent": 70 }
-      ]
-    },
-    {
-      "name": "Blockchain & Dapps",
-      "skill": [
-        { "name": "Web3", "percent": 70 },
-        { "name": "Ethersjs", "percent": 70 },
-        { "name": "Solidity", "percent": 60 }
-      ]
-    }
-  ],
-  "works": [
-    {
-      "name": "test name project1",
-      "date": "2000 - 2003",
-      "items": [
-        {
-          "name": "",
-          "events": [
-            { "text": "text text" },
-            { "text": "text text2", "link": "http://google.com" },
-            { "text": "text text", "link": "http://google.com" },
-            { "text": "text text3", "link": "http://google.com" }
-          ]
-        }
-      ]
-    }
-  ],
-  
-  {
-  "experiences": {
-    "title": "Competence experience",
-    "items": [
-      {
-        "name": "Web page",
-        "icon": "fa fa-tv",
-        "experience": [
-          "Collaborated with front-end and back-end engineers, and designers to develop project experience",
-          "Expertise in developing accessible web designs for government organizations, adhering to WCAG 2.0 Level A standards set by the National Communications Commission",
-          "Proficient in SEO (Search Engine Optimization) and Google keyword research",
-          "Extensive experience in web development using modern frameworks like React.js and Vue.js",
-          "Skilled in designing responsive web pages using HTML5, CSS3, and JavaScript",
-          "Led a team of designers/interns in website development and provided mentorship",
-          "Experience in deploying web applications using modern deployment tools and platforms",
-          "Proficient in using Business Intelligence (BI) tools for interface design, such as Power BI, Tableau, and Looker"
-        ]
-      },
-      {
-        "name": "Devs",
-        "icon": "fa fa-paint-brush",
-        "experience": [
-          "Designed UI/UX system interfaces using industry-standard tools like Figma and Sketch",
-          "Created marketing campaign materials and designed field cloths for exhibitions",
-          "Experience in designing product cases and packaging",
-          "Developed corporate identity systems and product logos",
-          "Designed visual icon sets for various applications",
-          "Planned and designed product catalog layouts",
-          "Created master templates for enterprise presentations"
-        ]
-      },
-      {
-        "name": "Blockchain",
-        "icon": "fa fa-cubes",
-        "experience": [
-          "Developed decentralized applications (DApps) using Ethereum blockchain and Solidity smart contracts",
-          "Implemented blockchain-based authentication and data security mechanisms",
-          "Experience in creating and deploying ERC-20 tokens and conducting token sales",
-          "Worked with blockchain development frameworks like Truffle and Embark",
-          "Utilized web3.js library for interacting with blockchain networks",
-          "Integrated blockchain solutions with existing web applications"
-        ]
-      },
-      {
-        "name": "Robotics",
-        "icon": "fa fa-robot",
-        "experience": [
-          "Developed robotics applications using JavaScript and robotics frameworks like ROS (Robot Operating System)",
-          "Programmed robotic systems for autonomous navigation and manipulation tasks",
-          "Experience in developing computer vision algorithms for object detection and recognition",
-          "Utilized machine learning techniques for robotic perception and decision-making",
-          "Integrated robots with web interfaces for remote control and monitoring",
-          "Developed motion planning algorithms for robots using JavaScript libraries like Open Motion Planning Library (OMPL)"
-        ]
-      },
-      {
-        "name": "Artificial Intelligence",
-        "icon": "fa fa-brain",
-        "experience": [
-          "Developed machine learning models using JavaScript libraries like TensorFlow.js and Keras.js",
-          "Implemented natural language processing (NLP) algorithms for text analysis and sentiment analysis",
-          "Experience in building recommendation systems and collaborative filtering algorithms",
-          "Utilized deep learning techniques for computer vision tasks such as image classification and object detection",
-          "Developed chatbots and virtual assistants using conversational AI frameworks like Dialogflow",
-          "Applied reinforcement learning algorithms for decision-making in AI systems",
-          "Worked with Node.js and Express.js to build AI-powered web applications"
-        ]
-      }
-    ]
-  }
+	"name": "Brahim BIDI",
+	"mail": "mail@brah.im",
+	"subName": "JavaScript ❣️",
+	"aboutMe": [
+		"About Ibrahim ",
+		"I'm Ibrahim Bidi, the programming world is my specialty, everything related to JavaScript you will find me there, in the Frontend, Backend, on mobile and desktop, in robotics and blockchain, JavaScript has become everywhere.\nI bet on javascript 22 years ago, it was on Earth🌍 and now it's in space🚀\nJS🧡."
+	],
+	"mobile": "Mobile: +212.67.127.56665",
+	"mailbox": "mailbox: bidi@brah.im",
+	"avatar": "/avatar/ibrahim_bidi.jpg",
+	"birth": "Birth: 1979",
+	"info": "Basic information",
+	"nameT": "Name: Brahim BIDI",
+	"links": [{
+			"title": "github",
+			"url": "https://github.com/Zizwar/",
+			"icon": "fa fa-github"
+		},
+		{
+			"title": "facebook",
+			"url": "https://web.facebook.com/groups/JavaScript.Programming",
+			"icon": "fa fa-facebook"
+		},
+		{
+			"title": "linkedin",
+			"url": "https://www.linkedin.com/in/ibrahim-bidi-07a7b620",
+			"icon": "fa fa-linkedin"
+		},
+		{
+			"title": "instagram",
+			"url": "https://www.instagram.com/bidiibrahim/",
+			"icon": "fa fa-instagram"
+		},
+		{
+			"title": "codeer",
+			"url": "https://coder.social/Zizwar"
+		},
+		{
+			"title": "android",
+			"url": "https://play.google.com/store/apps/developer?id=Ibrahim+Bidi",
+			"icon": "fa fa-android"
+		},
+		{
+			"title": "email",
+			"url": "mailto:bidi@brah.im",
+			"icon": "fa fa-at"
+		}
+	],
+	"skills": [{
+			"name": "V8",
+			"skill": [{
+					"name": "DenoLand",
+					"percent": 95
+				},
+				{
+					"name": "NodeJs",
+					"percent": 90
+				}
+			]
+		},
+		{
+			"name": "Frameworks & Libs",
+			"skill": [{
+					"name": "Nextjs/Fresh",
+					"percent": 90
+				},
+				{
+					"name": "React Native",
+					"percent": 95
+				}
+			]
+		},
+		{
+			"name": "Sql & NoSql & WS",
+			"skill": [{
+					"name": "Mysql / Postgresql / Sqlite",
+					"percent": 85
+				},
+				{
+					"name": "MongoDB",
+					"percent": 95
+				},
+				{
+					"name": "Realme",
+					"percent": 80
+				},
+				{
+					"name": "Firebase / pushDB / Redis / Websocket",
+					"percent": 90
+				}
+			]
+		},
+		{
+			"name": "Robotics & IoT",
+			"skill": [{
+					"name": "Johnny-Five",
+					"percent": 80
+				},
+				{
+					"name": "Cylonjs",
+					"percent": 70
+				},
+				{
+					"name": "NodeBots",
+					"percent": 70
+				}
+			]
+		},
+		{
+			"name": "Blockchain & Dapps",
+			"skill": [{
+					"name": "Web3",
+					"percent": 70
+				},
+				{
+					"name": "Ethersjs",
+					"percent": 70
+				},
+				{
+					"name": "Solidity",
+					"percent": 60
+				}
+			]
+		}
+	],
+	"works": [{
+		"name": "test name project1",
+		"date": "2000 - 2003",
+		"items": [{
+			"name": "",
+			"events": [{
+					"text": "text text"
+				},
+				{
+					"text": "text text2",
+					"link": "http://google.com"
+				},
+				{
+					"text": "text text",
+					"link": "http://google.com"
+				},
+				{
+					"text": "text text3",
+					"link": "http://google.com"
+				}
+			]
+		}]
+	}],
+	"experiences": {
+		"title": "Competence experience",
+		"items": [
+
+			{
+				"name": "Web page",
+				"icon": "fa fa-tv",
+				"experience": [
+					"Collaborated with front-end and back-end engineers, and designers to develop project experience",
+					"Expertise in developing accessible web designs for government organizations, adhering to WCAG 2.0 Level A standards set by the National Communications Commission",
+					"Proficient in SEO (Search Engine Optimization) and Google keyword research",
+					"Extensive experience in web development using modern frameworks like React.js and Vue.js",
+					"Skilled in designing responsive web pages using HTML5, CSS3, and JavaScript",
+					"Led a team of designers/interns in website development and provided mentorship",
+					"Experience in deploying web applications using modern deployment tools and platforms",
+					"Proficient in using Business Intelligence (BI) tools for interface design, such as Power BI, Tableau, and Looker"
+				]
+			},
+			{
+				"name": "Devs",
+				"icon": "fa fa-paint-brush",
+				"experience": [
+					"Designed UI/UX system interfaces using industry-standard tools like Figma and Sketch",
+					"Created marketing campaign materials and designed field cloths for exhibitions",
+					"Experience in designing product cases and packaging",
+					"Developed corporate identity systems and product logos",
+					"Designed visual icon sets for various applications",
+					"Planned and designed product catalog layouts",
+					"Created master templates for enterprise presentations"
+				]
+			},
+			{
+				"name": "Blockchain",
+				"icon": "fa fa-cubes",
+				"experience": [
+					"Developed decentralized applications (DApps) using Ethereum blockchain and Solidity smart contracts",
+					"Implemented blockchain-based authentication and data security mechanisms",
+					"Experience in creating and deploying ERC-20 tokens and conducting token sales",
+					"Worked with blockchain development frameworks like Truffle and Embark",
+					"Utilized web3.js library for interacting with blockchain networks",
+					"Integrated blockchain solutions with existing web applications"
+				]
+			},
+			{
+				"name": "Robotics",
+				"icon": "fa fa-robot",
+				"experience": [
+					"Developed robotics applications using JavaScript and robotics frameworks like ROS (Robot Operating System)",
+					"Programmed robotic systems for autonomous navigation and manipulation tasks",
+					"Experience in developing computer vision algorithms for object detection and recognition",
+					"Utilized machine learning techniques for robotic perception and decision-making",
+					"Integrated robots with web interfaces for remote control and monitoring",
+					"Developed motion planning algorithms for robots using JavaScript libraries like Open Motion Planning Library (OMPL)"
+				]
+			},
+			{
+				"name": "Artificial Intelligence",
+				"icon": "fa fa-brain",
+				"experience": [
+					"Developed machine learning models using JavaScript libraries like TensorFlow.js and Keras.js",
+					"Implemented natural language processing (NLP) algorithms for text analysis and sentiment analysis",
+					"Experience in building recommendation systems and collaborative filtering algorithms",
+					"Utilized deep learning techniques for computer vision tasks such as image classification and object detection",
+					"Developed chatbots and virtual assistants using conversational AI frameworks like Dialogflow",
+					"Applied reinforcement learning algorithms for decision-making in AI systems",
+					"Worked with Node.js and Express.js to build AI-powered web applications"
+				]
+			}
+
+		]
+	}
 }
- 
-
-
-
