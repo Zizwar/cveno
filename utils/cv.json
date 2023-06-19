@@ -102,6 +102,8 @@
       ]
     }
   ],
+  
+  {
   "experiences": {
     "title": "Competence experience",
     "items": [
@@ -109,30 +111,70 @@
         "name": "Web page",
         "icon": "fa fa-tv",
         "experience": [
-          "Work with dozens of front and rear engineers and designers to develop project experience",
-          "Experience in accessible web design for government units (through the National Communications Commission barrier-free web page 2.0 A-level stamp)",
-          "SEO search engine optimization, Google keywords",
-          "Experience developing web pages using the Bootstrap4/UIkit framework",
-          "Experience designing RWD web pages using HTML5, SCSS, and jQuery",
-          "Lead a team of designers/interns to build websites and teaching experience",
-          "Experience building websites using IIS",
-          "Experience with FTP, remote deployer",
-          "BI Software Interface Beautification Experience (KNIME, MicroStrategy, Tableau, IBM Cognos)"
+          "Collaborated with front-end and back-end engineers, and designers to develop project experience",
+          "Expertise in developing accessible web designs for government organizations, adhering to WCAG 2.0 Level A standards set by the National Communications Commission",
+          "Proficient in SEO (Search Engine Optimization) and Google keyword research",
+          "Extensive experience in web development using modern frameworks like React.js and Vue.js",
+          "Skilled in designing responsive web pages using HTML5, CSS3, and JavaScript",
+          "Led a team of designers/interns in website development and provided mentorship",
+          "Experience in deploying web applications using modern deployment tools and platforms",
+          "Proficient in using Business Intelligence (BI) tools for interface design, such as Power BI, Tableau, and Looker"
         ]
       },
       {
         "name": "Devs",
         "icon": "fa fa-paint-brush",
         "experience": [
-          "Experience designing UI/UX system interfaces with Adobe XD",
-          "Exhibition marketing campaign planning, field cloth design experience",
-          "Experience in designing cases",
-          "Enterprise CIS Identification/Product Logo Design",
-          "Visual icon set design",
-          "Visualize product catalog planning design",
-          "Enterprise identification PPT master base design"
+          "Designed UI/UX system interfaces using industry-standard tools like Figma and Sketch",
+          "Created marketing campaign materials and designed field cloths for exhibitions",
+          "Experience in designing product cases and packaging",
+          "Developed corporate identity systems and product logos",
+          "Designed visual icon sets for various applications",
+          "Planned and designed product catalog layouts",
+          "Created master templates for enterprise presentations"
+        ]
+      },
+      {
+        "name": "Blockchain",
+        "icon": "fa fa-cubes",
+        "experience": [
+          "Developed decentralized applications (DApps) using Ethereum blockchain and Solidity smart contracts",
+          "Implemented blockchain-based authentication and data security mechanisms",
+          "Experience in creating and deploying ERC-20 tokens and conducting token sales",
+          "Worked with blockchain development frameworks like Truffle and Embark",
+          "Utilized web3.js library for interacting with blockchain networks",
+          "Integrated blockchain solutions with existing web applications"
+        ]
+      },
+      {
+        "name": "Robotics",
+        "icon": "fa fa-robot",
+        "experience": [
+          "Developed robotics applications using JavaScript and robotics frameworks like ROS (Robot Operating System)",
+          "Programmed robotic systems for autonomous navigation and manipulation tasks",
+          "Experience in developing computer vision algorithms for object detection and recognition",
+          "Utilized machine learning techniques for robotic perception and decision-making",
+          "Integrated robots with web interfaces for remote control and monitoring",
+          "Developed motion planning algorithms for robots using JavaScript libraries like Open Motion Planning Library (OMPL)"
+        ]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "icon": "fa fa-brain",
+        "experience": [
+          "Developed machine learning models using JavaScript libraries like TensorFlow.js and Keras.js",
+          "Implemented natural language processing (NLP) algorithms for text analysis and sentiment analysis",
+          "Experience in building recommendation systems and collaborative filtering algorithms",
+          "Utilized deep learning techniques for computer vision tasks such as image classification and object detection",
+          "Developed chatbots and virtual assistants using conversational AI frameworks like Dialogflow",
+          "Applied reinforcement learning algorithms for decision-making in AI systems",
+          "Worked with Node.js and Express.js to build AI-powered web applications"
         ]
       }
     ]
   }
+}
+ 
+
+
 }
