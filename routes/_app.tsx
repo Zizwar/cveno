@@ -9,16 +9,16 @@ export default function App({ Component }: AppProps) {
     <div>
       <Head>
         <link rel="icon" href="/favicon.ico" sizes="32x32" />
-        <title>CVeno</title>
+        <title>Brahim BIDI</title>
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="CVeno" />
+        <meta property="og:site_name" content="Brahim BIDI" />
         <meta property="og:title" content="" />
         <meta property="og:description" content="" />
         <meta property="og:type" content="website" />
         <meta name="robots" content="index, follow" />
         <meta
           name="keywords"
-          content="CV, Deno, DenoLand, Development, JavaScript, TypeScript"
+          content="Brahim BIDI,CV, Deno,node, Development, JavaScript, TypeScript"
         />
         <link rel="stylesheet" href="/css/globals.css" />
         <link rel="stylesheet" href="/css/home.css" />
