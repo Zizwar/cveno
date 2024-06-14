@@ -1,18 +1,17 @@
 {
-    "name": "Ibrahim BIDI",
+    "name": "Brahim BIDI",
     "mail": "zip.exe.com",
     "subName": "JavaScript ❣️",
     "aboutMe": [
         "About Ibrahim",
-        `Hello! I'm Ibrahim Bidi, a passionate and experienced developer specializing in JavaScript. From Frontend to Backend, mobile to desktop, robotics to blockchain, JavaScript is my realm. I have been dedicated to this language for 22 years, watching it grow from humble beginnings on Earth 🌍 to its expansive presence in space 🚀. JS is my heart and soul 🧡.
-         Over the years, I've worked on numerous projects, contributed to the open-source community, and developed applications that have positively impacted many users. My journey began with creating the first Arabic keyboard for Windows 98 and has evolved into developing complex systems for various platforms.`
+        "Hello! I'm Ibrahim Bidi, a passionate and experienced developer specializing in JavaScript. From Frontend to Backend, mobile to desktop, robotics to blockchain, JavaScript is my realm. I have been dedicated to this language for 22 years, watching it grow from humble beginnings on Earth 🌍 to its expansive presence in space 🚀. JS is my heart and soul 🧡\n Over the years, I've worked on numerous projects, contributed to the open-source community, and developed applications that have positively impacted many users. My journey began with creating the first Arabic keyboard for Windows 98 and has evolved into developing complex systems for various platforms."
     ],
     "mobile": "Mobile: +212.67.127.56665",
     "mailbox": "mailbox: zip.exe@gmail.com",
     "avatar": "/avatar/ibrahim_bidi.jpg",
     "birth": "Birth: 1979",
     "info": "Basic information",
-    "nameT": "Name: Ibrahim BIDI",
+    "nameT": "Name: Brahim BIDI",
     
     "site": [
         {
@@ -174,7 +173,7 @@
                 ]
             },
             {
-                "nam"e: "Backend Development & Microservices",
+                "name": "Backend Development & Microservices",
                 "icon": "fa fa-server",
                 "experience": [
                     "Extensive experience with Node.js and Deno for building scalable server-side applications",
