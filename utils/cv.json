@@ -13,16 +13,41 @@
     "info": "Basic information",
     "nameT": "Name: Brahim BIDI",
     
-    "site": [
-        {
-            "text": "LinkedIn",
-            "url": "https://www.linkedin.com/in/ibrahimbidi/"
-        },
-        {
-            "text": "GitHub",
-            "url": "https://github.com/ibrahimbidi"
-        }
-    ],
+   "links": [{
+			"title": "github",
+			"url": "https://github.com/Zizwar/",
+			"icon": "fa fa-github"
+		},
+		{
+			"title": "facebook",
+			"url": "https://web.facebook.com/groups/JavaScript.Programming",
+			"icon": "fa fa-facebook"
+		},
+		{
+			"title": "linkedin",
+			"url": "https://www.linkedin.com/in/ibrahim-bidi-07a7b620",
+			"icon": "fa fa-linkedin"
+		},
+		{
+			"title": "instagram",
+			"url": "https://www.instagram.com/bidiibrahim/",
+			"icon": "fa fa-instagram"
+		},
+		{
+			"title": "codeer",
+			"url": "https://coder.social/Zizwar"
+		},
+		{
+			"title": "android",
+			"url": "https://play.google.com/store/apps/developer?id=Ibrahim+Bidi",
+			"icon": "fa fa-android"
+		},
+		{
+			"title": "email",
+			"url": "mailto:bidi@brah.im",
+			"icon": "fa fa-at"
+		}
+	],
 	"skills": [{
 			"name": "V8",
 			"skill": [{
