@@ -29,7 +29,7 @@ export default function Home() {
           <div class="info">
             <Line title={cv.info} />
             <p>{cv.age}</p>
-            <p>{cv.birth}</p>
+            
             <p>{cv.mobile}</p>
             <p>
               {" "}
@@ -63,8 +63,7 @@ export default function Home() {
             <Works key={index} data={item} />
           ))}
 
-          <Line title={"test4"} />
-          <ul class="timeline"></ul>
+          
         </div>
       </div>
     </div>
