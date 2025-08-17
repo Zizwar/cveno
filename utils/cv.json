@@ -9,7 +9,7 @@
     "mobile": "Mobile: +212.67.127.56665",
     "mailbox": "mailbox: zip.exe@gmail.com",
     "avatar": "/avatar/ibrahim_bidi.jpg",
-    "birth": "Birth: 1979",
+    
     "info": "Basic information",
     "nameT": "Name: Brahim BIDI",
     
@@ -28,23 +28,15 @@
 			"url": "https://www.linkedin.com/in/ibrahim-bidi-07a7b620",
 			"icon": "fa fa-linkedin"
 		},
-		{
-			"title": "instagram",
-			"url": "https://www.instagram.com/bidiibrahim/",
-			"icon": "fa fa-instagram"
-		},
-		{
-			"title": "codeer",
-			"url": "https://coder.social/Zizwar"
-		},
+	
+		
 		{
 			"title": "android",
-			"url": "https://play.google.com/store/apps/developer?id=Ibrahim+Bidi",
-			"icon": "fa fa-android"
+			"url": "https://apkpure.com/ar/%D9%85%D8%B5%D8%AD%D9%81-%D9%85%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/wino.ma.mushaf.mauri"
 		},
 		{
 			"title": "email",
-			"url": "mailto:bidi@brah.im",
+			"url": "mailto:zip.exe@googlemail.com",
 			"icon": "fa fa-at"
 		}
 	],
@@ -56,7 +48,7 @@
 				},
 				{
 					"name": "NodeJs",
-					"percent": 90
+					"percent": 95
 				}
 			]
 		},
